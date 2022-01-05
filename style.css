@@ -3,7 +3,7 @@
 	margin: 0;
 }
 body{
-	background: url(backgr.png) no-repeat;
+	background: url(backgr.png);
 	background-size: cover;
 	align-items: center;
 	justify-content: center;
